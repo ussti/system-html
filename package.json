@@ -1,0 +1,13 @@
+{
+  "name": "system-html-project",
+  "version": "1.0.0",
+  "description": "Static HTML website",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build step required for static HTML'"
+  },
+  "keywords": ["html", "static", "website"],
+  "author": "",
+  "license": "ISC"
+}
